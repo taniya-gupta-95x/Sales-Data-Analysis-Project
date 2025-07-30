@@ -11,9 +11,6 @@ This project analyzes sales transaction data using **Python**, **SQL**, and **Ex
 - Microsoft Excel
 - Jupyter Notebook
 
-## Data Source
-[Kaggle Retail Transaction Dataset](https://www.kaggle.com/regivm/retailtransactiondata)
-
 ## Project Phases
 1. Data Collection & Setup
 2. Data Cleaning & Preparation
